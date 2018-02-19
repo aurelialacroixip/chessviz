@@ -1,7 +1,52 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <local.h>
-main()
+int main ()
 {
-int A[9][9];
+printf(" —-------------------------------— ");
+printf("\n");
+printf("| 1 | R | H | E | Q | K | E | H | R |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+printf("| 2 | p | p | p | p | p | p | p | p |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+printf("| 3 | | | | | | | | |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+printf("| 4 | | | | | | | | |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+printf("| 5 | | | | | | | | |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+printf("| 6 | | | | | | | | |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+printf("| 7 | p | p | p | p | p | p | p | p |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+printf("| 8 | R | H | E | Q | K | E | H | R |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+printf("| | a | b | c | d | e | f | g | h |");
+printf("\n");
+printf(" —-------------------------------— ");
+printf("\n");
+
+return 0;
 }
